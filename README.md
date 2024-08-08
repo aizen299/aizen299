@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aizen299
 - 👀 I’m interested in Software and web development
 - 🌱 I’m currently learning python c++ java and other languages
-- 💞️ I’m looking to collaborate on C and DSA related projects
+- 💞️ I’m looking to collaborate on AI/ML related projects 
 - 📫 How to reach me
 -  Drop a email: rainaaditya58@gmail.com or via instagram at being.aditya07
 -  Usually fast to reply but at times i am sleepy 
