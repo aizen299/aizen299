@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aizen299
+- 👋 Hi, I’m Aditya 
 - 👀 I’m interested in Software and web development
 - 🌱 I’m currently learning python c++ java and other languages
 - 💞️ I’m looking to collaborate on AI/ML related projects 
