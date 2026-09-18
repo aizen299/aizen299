@@ -94,13 +94,31 @@ Ticketing system with an **end-to-end AI pipeline** powered by Groq.
 ## 🧰 Tech Arsenal
 
 <p align="center"><b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,java,python,ts,js,solidity,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,python,java,ts,js,solidity&theme=dark" />
 </p>
 <p align="center"><b>Frameworks & Web</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,pytorch,sklearn,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,django,express,tailwind,pytorch,sklearn&theme=dark" />
 </p>
-<p align="center"><b>Infra, Data & DevOps</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,redis,prometheus,grafana,githubactions,vercel,linux,git&theme=dark" />
+<p align="center"><b>Infrastructure & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,redis,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,git&theme=dark" />
+  <br/><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+<p align="center"><b>Blockchain</b><br/><br/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundry-1B1B1B?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wormhole-000000?style=for-the-badge&logo=wormhole&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Noir-2F1B4E?style=for-the-badge&logo=zcash&logoColor=white"/>
+</p>
+<p align="center"><b>Security</b><br/><br/>
+  <img src="https://img.shields.io/badge/Slither-7F00FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semgrep-FF2E88?style=for-the-badge&logo=semgrep&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitleaks-D14836?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Syft%20%2B%20Grype-0E7C86?style=for-the-badge&logo=anchore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fuzzing-B00020?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
