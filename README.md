@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0033,75:7f00ff,100:00f0ff&height=220&section=header&text=Aditya%20Raina&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Systems%20%E2%80%A2%20Security%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0033,75:7f00ff,100:ff2e88&height=220&section=header&text=Aditya%20Raina&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Systems%20%E2%80%A2%20Security%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/aizen299">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+initializing+aizen299...;Building+production-grade+systems+from+packets+to+protocols;Go+%7C+Rust+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+TypeScript;DevSecOps+%E2%80%A2+DeFi+%E2%80%A2+IoT+%E2%80%A2+Computer+Vision;Coder+by+day.+Dexter+enjoyer+by+night+%F0%9F%A9%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF2E88&center=true&vCenter=true&width=720&lines=%3E+initializing+aizen299...;Building+production-grade+systems+from+packets+to+protocols;Go+%7C+Rust+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+TypeScript;DevSecOps+%E2%80%A2+DeFi+%E2%80%A2+IoT+%E2%80%A2+Computer+Vision;Coder+by+day.+Dexter+enjoyer+by+night+%F0%9F%A9%B8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://aditya-raina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aditya--raina.vercel.app-00f0ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://aditya-raina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aditya--raina.vercel.app-ff2e88?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:rainaaditya58@gmail.com"><img src="https://img.shields.io/badge/Email-rainaaditya58%40gmail.com-7f00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -120,4 +120,4 @@ Ticketing system with an **end-to-end AI pipeline** powered by Groq.
   <i>"I'm a very neat monster."</i> — building clean systems, one commit at a time.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7f00ff,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:7f00ff,100:0d1117&height=120&section=footer" width="100%"/>
