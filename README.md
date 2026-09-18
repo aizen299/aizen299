@@ -20,7 +20,7 @@
 ## `$ whoami`
 
 ```yaml
-operator:    Aditya Raina  (aizen299)
+operator:    Aditya Raina
 role:        Systems & Security Engineer  ·  Full-Stack Builder
 focus:       [ blockchain-infra, devsecops, distributed-systems, network-security, applied-ml ]
 currently:   shipping Aegis Protocol — cross-chain DeFi + native oracles + zk privacy
