@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aditya-raina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aditya--raina.vercel.app-00f0ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   <a href="mailto:rainaaditya58@gmail.com"><img src="https://img.shields.io/badge/Email-rainaaditya58%40gmail.com-7f00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aizen299&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="views"/>
   <a href="https://github.com/aizen299?tab=followers"><img src="https://img.shields.io/github/followers/aizen299?label=Followers&style=for-the-badge&color=ff2e88&logo=github"/></a>
@@ -21,6 +22,7 @@
 
 ```yaml
 operator:    Aditya Raina
+portfolio:   https://aditya-raina.vercel.app
 role:        Systems & Security Engineer  ·  Full-Stack Builder
 focus:       [ blockchain-infra, devsecops, distributed-systems, network-security, applied-ml ]
 currently:   shipping Aegis Protocol — cross-chain DeFi + native oracles + zk privacy
