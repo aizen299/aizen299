@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/aizen299">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+initializing+aizen299...;Building+production-grade+systems+from+packets+to+protocols;Go+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+TypeScript;DevSecOps+%E2%80%A2+DeFi+%E2%80%A2+IoT+%E2%80%A2+Computer+Vision;Coder+by+day.+Dexter+enjoyer+by+night+%F0%9F%A9%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+initializing+aizen299...;Building+production-grade+systems+from+packets+to+protocols;Go+%7C+Rust+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+TypeScript;DevSecOps+%E2%80%A2+DeFi+%E2%80%A2+IoT+%E2%80%A2+Computer+Vision;Coder+by+day.+Dexter+enjoyer+by+night+%F0%9F%A9%B8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -80,80 +80,27 @@ Edge devices over **MQTT** → Java gateway → **Kafka** streams → time-serie
 </td>
 <td width="50%" valign="top">
 
-### 🚙 [Offroad Perception Engine](https://github.com/aizen299/offroad-perception-navigation-engine)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-Real-time terrain **semantic segmentation** (DeepLabV3+) and navigation intelligence, served via FastAPI + Next.js in Docker.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎫 [Project XRise](https://github.com/aizen299/project-xrise) · [🌐 Live](https://project-xrise-nine.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white)
 
 Ticketing system with an **end-to-end AI pipeline** powered by Groq.
 
 </td>
-<td width="50%" valign="top">
-
-### 🖼️ [MemoryLane](https://github.com/aizen299/memorylane-site) · [🌐 Live](https://memorylane-site-coral.vercel.app)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-A polished TypeScript web experience, deployed on Vercel.
-
-</td>
 </tr>
 </table>
-
-<details>
-<summary><b>📂 More in the arsenal</b></summary>
-<br/>
-
-| Repo | What it is |
-|---|---|
-| [design-pattern](https://github.com/aizen299/design-pattern) | Classic design patterns implemented in C++ |
-| [selenium-pytest-framework](https://github.com/aizen299/selenium-pytest-framework) | Selenium WebDriver + Pytest automation framework |
-| [23MIS0151-DevOps-Project](https://github.com/aizen299/23MIS0151-DevOps-Project) | DevOps pipeline project |
-| [test-assessment-solution](https://github.com/aizen299/test-assessment-solution) | JavaScript assessment solution |
-| [UI-UX](https://github.com/aizen299/UI-UX) | UI/UX experiments |
-
-</details>
 
 ---
 
 ## 🧰 Tech Arsenal
 
 <p align="center"><b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=go,cpp,java,python,ts,js,solidity,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,java,python,ts,js,solidity,html,css&theme=dark" />
 </p>
 <p align="center"><b>Frameworks & Web</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,pytorch,sklearn,selenium&theme=dark" />
 </p>
 <p align="center"><b>Infra, Data & DevOps</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,redis,prometheus,grafana,githubactions,vercel,linux,git&theme=dark" />
-</p>
-
----
-
-## 📊 Telemetry
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aizen299&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7f00ff&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizen299&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aizen299&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=FF2E88&currStreakLabel=00F0FF" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aizen299&bg_color=0d1117&color=00f0ff&line=7f00ff&point=ff2e88&area=true&area_color=7f00ff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aizen299&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
